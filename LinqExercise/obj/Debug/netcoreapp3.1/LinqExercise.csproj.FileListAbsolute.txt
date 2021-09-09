@@ -1,0 +1,13 @@
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp3.1\LinqExercise.exe
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp3.1\LinqExercise.deps.json
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp3.1\LinqExercise.runtimeconfig.json
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp3.1\LinqExercise.runtimeconfig.dev.json
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp3.1\LinqExercise.dll
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp3.1\LinqExercise.pdb
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp3.1\LinqExercise.csproj.AssemblyReference.cache
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp3.1\LinqExercise.AssemblyInfoInputs.cache
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp3.1\LinqExercise.AssemblyInfo.cs
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp3.1\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp3.1\LinqExercise.dll
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp3.1\LinqExercise.pdb
+C:\Users\Second-Desktop\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp3.1\LinqExercise.genruntimeconfig.cache
