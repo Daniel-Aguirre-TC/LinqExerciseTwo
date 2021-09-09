@@ -136,7 +136,7 @@ namespace LinqExercise
         static void PrintAverageYearReleased()
         {
             Console.Clear();
-            Console.WriteLine("The average year that games were released was: " + Game.All.Average(x => x.YearReleased));
+            Console.WriteLine("The average year that games were released was: " + Math.Ceiling(Game.All.Average(x => x.YearReleased)));
         }
 
         static void PrintForCount()

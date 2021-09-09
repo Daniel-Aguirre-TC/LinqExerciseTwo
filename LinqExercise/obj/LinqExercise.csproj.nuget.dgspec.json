@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Second-Desktop\\repos\\LinqExercise\\LinqExercise\\LinqExercise.csproj": {}
+    "C:\\Users\\Second-Desktop\\repos\\LinqExerciseTwo\\LinqExercise\\LinqExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Second-Desktop\\repos\\LinqExercise\\LinqExercise\\LinqExercise.csproj": {
+    "C:\\Users\\Second-Desktop\\repos\\LinqExerciseTwo\\LinqExercise\\LinqExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Second-Desktop\\repos\\LinqExercise\\LinqExercise\\LinqExercise.csproj",
+        "projectUniqueName": "C:\\Users\\Second-Desktop\\repos\\LinqExerciseTwo\\LinqExercise\\LinqExercise.csproj",
         "projectName": "LinqExercise",
-        "projectPath": "C:\\Users\\Second-Desktop\\repos\\LinqExercise\\LinqExercise\\LinqExercise.csproj",
+        "projectPath": "C:\\Users\\Second-Desktop\\repos\\LinqExerciseTwo\\LinqExercise\\LinqExercise.csproj",
         "packagesPath": "C:\\Users\\Second-Desktop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Second-Desktop\\repos\\LinqExercise\\LinqExercise\\obj\\",
+        "outputPath": "C:\\Users\\Second-Desktop\\repos\\LinqExerciseTwo\\LinqExercise\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
